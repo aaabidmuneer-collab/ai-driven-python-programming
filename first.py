@@ -1,0 +1,10 @@
+print('helo')
+print('pappe')
+print('good night')
+
+print('my new born baby name is')
+print('arman')
+print('what is your age')
+print('my age is 5')
+print('age of your new born baby is')
+print('just born only')
